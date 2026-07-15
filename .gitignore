@@ -1,0 +1,5 @@
+# scadm binaries and installed libraries
+bin/openscad/
+
+# scadm flattener cache (if flattening models)
+models/.flatten-checksums

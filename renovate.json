@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>kellerlabs/homeracker:renovate-dependencies"
+  ]
+}

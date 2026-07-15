@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.scad": "scad"
+  },
+  "files.eol": "\n",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "scad-lsp.launchPath": "D:\\Coding\\ESCMountingPlate\\bin\\openscad\\openscad.exe"
+}
